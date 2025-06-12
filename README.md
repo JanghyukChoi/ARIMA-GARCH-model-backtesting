@@ -87,5 +87,6 @@ This project explores time series forecasting, risk management, and trading stra
 ├── daily_var_exceedance_test.py
 └── README.md
 
-![image](https://github.com/user-attachments/assets/c3dabb77-b477-43e5-830f-adce2cf28916)
+
+![Backtest Result](backtest_picture.png)
 
